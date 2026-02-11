@@ -6,8 +6,8 @@ const projectsData = [
     title: "Portfolio Website",
     desc: "Personal portfolio built with React and Tailwind CSS.",
     tech: ["React", "Tailwind"],
-    live: "#",
-    github: "#",
+    live: "https://priya2771.github.io/Personal-Portfolio-Website/",
+    github: "https://github.com/priya2771/Personal-Portfolio-Website.git",
   },
   {
     title: "Cake-Shop",
